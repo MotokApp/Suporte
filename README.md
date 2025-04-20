@@ -24,8 +24,8 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 
 ## **🔗 Links**  
 
-📄 **[Documentação / Docs](https://drive.google.com/file/d/1uzYwZf44W_6r6yTHlnjpCYV6jHSIzQEd/view?usp=drive_link)**  
-
+📄 **[Documentação / Docs](https://www.canva.com/design/DAGk8HActSs/Nk5ai1Gz5IeUHHzkSUXOaA/view?utm_content=DAGk8HActSs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b729ce725)**  
+📄 **[Youtube](https://www.youtube.com/watch?v=sZKoeyzTNIM&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)**  
 📂 **[Pasta Compartilhada](https://drive.google.com/drive/folders/17KbAg62j9fbS0gGz7YU4Z9jzePhxzan9?usp=sharing)**  
 
 ---
