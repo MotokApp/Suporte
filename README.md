@@ -24,11 +24,18 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 
 ## **🔗 Links**  
 
+
 📄 **[Documentação / Docs](https://www.canva.com/design/DAGk8HActSs/Nk5ai1Gz5IeUHHzkSUXOaA/view?utm_content=DAGk8HActSs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b729ce725)**  
 📄 **[Youtube](https://www.youtube.com/watch?v=sZKoeyzTNIM&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)**  
 📄 **[Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/2243M42438016)**  
 📄 **[Mercado Livre](https://produto.mercadolivre.com.br/MLB-5358972660-motok-app-plataforma-de-delivery-integrada-ao-ifood-_JM)**  
 📂 **[Pasta Compartilhada](https://drive.google.com/drive/folders/17KbAg62j9fbS0gGz7YU4Z9jzePhxzan9?usp=sharing)**  
+
+📄 **[App iOS Cliente](https://apps.apple.com/us/app/motok-para-clientes/id1557157992)**  
+📄 **[App iOS Entregador](https://apps.apple.com/us/app/motok-para-entregadores/id1557157954)**  
+
+📄 **[App Web Cliente](https://motok.web.app)**  
+📄 **[App Web Entregador](https://motoboy.web.app)**  
 
 ---
 
