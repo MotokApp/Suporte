@@ -33,7 +33,7 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 📄 **[App iOS Cliente](https://apps.apple.com/us/app/motok-para-clientes/id1557157992)**  
 📄 **[App iOS Entregador](https://apps.apple.com/us/app/motok-para-entregadores/id1557157954)**  
 📄 **[App Web Cliente](https://motok.web.app)**  
-📄 **[App Web Entregador](https://motoboy.web.app)**  
+📄 **[App Web Entregador](https://motokpro.web.app)**  
 
 ---
 
