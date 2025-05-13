@@ -48,7 +48,6 @@ MotokApp is built with **Ionic Angular 12** for mobile and web apps, integrated 
 📄 [YouTube – Visão Geral](https://www.youtube.com/watch?v=sZKoeyzTNIM&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)  
 📄 [Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/2243M42438016)  
 📄 [Mercado Livre](https://produto.mercadolivre.com.br/MLB-5358972660-motok-app-plataforma-de-delivery-integrada-ao-ifood-_JM)  
-📄 [Mercado Pago](https://produto.mercadolivre.com.br/MLB-5358972660-plataforma-de-delivery-integrada-ifood-agente-ia-chatbot-_JM)  
 📄 [App iOS Cliente](https://apps.apple.com/us/app/motok-para-clientes/id1557157992)  
 📄 [App iOS Entregador](https://apps.apple.com/us/app/motok-para-entregadores/id1557157954)  
 📄 [App Web Cliente](https://motok.web.app)  
