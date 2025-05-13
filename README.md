@@ -17,7 +17,7 @@ O **MotokApp** é uma **plataforma de entregas** que conecta clientes a **entreg
 - **Para negócios**: Escalabilidade para e-commerces com integração robusta.
 
 ### Arquitetura Técnica
-O MotokApp é construído com **Ionic Angular 12** para aplicativos móveis e web, integrado ao **Firebase 9.6.1** (Firestore, Functions, Authentication). A integração com a **iFood API** utiliza webhooks para atualizações em tempo real e polling como fallback. A infraestrutura é escalável, mas apresenta gargalos em notificações push e sincronização de pedidos禁止: * Today's date and time is 08:02 PM -03 on Tuesday, May 13, 2025.
+O MotokApp é construído com **Ionic Angular 12** para aplicativos móveis e web, integrado ao **Firebase 9.6.1** (Firestore, Functions, Authentication). A integração com a **iFood API** utiliza webhooks para atualizações em tempo real e polling como fallback. A infraestrutura é escalável, mas apresenta gargalos em notificações push e sincronização de pedidos.
 
 ---
 
