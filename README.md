@@ -1,40 +1,56 @@
+# Suporte Online do MotokApp
 
+## 🇧🇷 Português
 
-### **# Suporte Online do MotokApp**  
+O **MotokApp** é uma **plataforma de entregas** que conecta clientes a **entregadores profissionais** sem intermediários, oferecendo uma solução eficiente para envios pessoais e comerciais. Com foco em **agilidade, segurança e autonomia**, o aplicativo permite que clientes solicitem entregas diretamente com os melhores profissionais da região, enquanto entregadores operam de forma independente, sem vínculo com empresas.
 
-## **🇧🇷 Português**  
+### Principais Funcionalidades
+- **Rastreamento em tempo real**: Acompanhe a entrega do início ao fim.
+- **Preços justos**: Tarifas competitivas baseadas em distância e demanda.
+- **Pagamento instantâneo**: Transações seguras via integração com Mercado Pago.
+- **Integração com iFood**: Automação de pedidos e status via API iFood.
+- **Autonomia do entregador**: Escolha de pedidos e horários flexíveis.
 
-O **MotokApp** é um **aplicativo de entregas** que conecta clientes a **entregadores profissionais**, sem intermediários. Com ele, qualquer pessoa pode solicitar serviços de entrega de forma rápida e segura, acessando diretamente os melhores profissionais da sua região.  
+### Benefícios
+- **Para clientes**: Experiência simplificada, com UX otimizada e suporte 24/7.
+- **Para entregadores**: Maior controle e ganhos diretos, sem taxas abusivas.
+- **Para negócios**: Escalabilidade para e-commerces com integração robusta.
 
-No **MotokApp**, os entregadores têm **total autonomia**, sem precisar estar vinculados a empresas, e os clientes contam com **preços justos, rastreamento em tempo real e pagamento instantâneo**.  
-
-Seja para envios pessoais ou para automação de entregas comerciais, o **MotokApp é a solução ideal para entregas ágeis e confiáveis**.  
-
----
-
-## **🇺🇸 English**  
-
-**MotokApp** is a **delivery app** that connects customers to **professional couriers** with no middleman. Anyone can request a delivery service quickly and securely, directly accessing the best professionals in their area.  
-
-With **MotokApp**, couriers have **full autonomy**, without being tied to companies, while customers benefit from **fair pricing, real-time tracking, and instant payments**.  
-
-Whether for personal shipments or automated business deliveries, **MotokApp is the ultimate solution for fast and reliable deliveries**. 🚀  
-
----
-
-## **🔗 Links**  
-
-
-📄 **[Documentação / Docs](https://www.canva.com/design/DAGk8HActSs/Nk5ai1Gz5IeUHHzkSUXOaA/view?utm_content=DAGk8HActSs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b729ce725)**  
-📄 **[Youtube](https://www.youtube.com/watch?v=sZKoeyzTNIM&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)**  
-📄 **[Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/2243M42438016)**  
-📄 **[Mercado Livre](https://produto.mercadolivre.com.br/MLB-5358972660-motok-app-plataforma-de-delivery-integrada-ao-ifood-_JM)**  
-📂 **[Pasta Compartilhada](https://drive.google.com/drive/folders/17KbAg62j9fbS0gGz7YU4Z9jzePhxzan9?usp=sharing)**  
-📄 **[App iOS Cliente](https://apps.apple.com/us/app/motok-para-clientes/id1557157992)**  
-📄 **[App iOS Entregador](https://apps.apple.com/us/app/motok-para-entregadores/id1557157954)**  
-📄 **[App Web Cliente](https://motok.web.app)**  
-📄 **[App Web Admin](https://motokadm.web.app)**  
-📄 **[App Web Entregador](https://motokpro.web.app)**  
+### Arquitetura Técnica
+O MotokApp é construído com **Ionic Angular 12** para aplicativos móveis e web, integrado ao **Firebase 9.6.1** (Firestore, Functions, Authentication). A integração com a **iFood API** utiliza webhooks para atualizações em tempo real e polling como fallback. A infraestrutura é escalável, mas apresenta gargalos em notificações push e sincronização de pedidos禁止: * Today's date and time is 08:02 PM -03 on Tuesday, May 13, 2025.
 
 ---
 
+## 🇺🇸 English
+
+**MotokApp** is a **delivery platform** that connects customers to **professional couriers** without intermediaries, providing an efficient solution for personal and commercial shipments. With a focus on **speed, security, and autonomy**, the app allows customers to request deliveries directly from top professionals in their area, while couriers operate independently, free from company ties.
+
+### Key Features
+- **Real-time tracking**: Monitor deliveries from start to finish.
+- **Fair pricing**: Competitive rates based on distance and demand.
+- **Instant payments**: Secure transactions via Mercado Pago integration.
+- **iFood integration**: Automated order and status updates via iFood API.
+- **Courier autonomy**: Flexible order selection and schedules.
+
+### Benefits
+- **For customers**: Streamlined experience with optimized UX and 24/7 support.
+- **For couriers**: Greater control and direct earnings without excessive fees.
+- **For businesses**: Scalable solution for e-commerce with robust integration.
+
+### Technical Architecture
+MotokApp is built with **Ionic Angular 12** for mobile and web apps, integrated with **Firebase 9.6.1** (Firestore, Functions, Authentication). The **iFood API** integration uses webhooks for real-time updates and polling as a fallback. The infrastructure is scalable but faces bottlenecks in push notifications and order synchronization, to be addressed in the audit.
+
+---
+
+## 🔗 Links
+
+📄 [Documentação / Docs](https://www.canva.com/design/DAGk8HActSs/Nk5ai1Gz5IeUHHzkSUXOaA/view?utm_content=DAGk8HActSs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b729ce725)  
+📄 [YouTube – Visão Geral](https://www.youtube.com/watch?v=sZKoeyzTNIM&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)  
+📄 [Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/2243M42438016)  
+📄 [Mercado Livre](https://produto.mercadolivre.com.br/MLB-5358972660-motok-app-plataforma-de-delivery-integrada-ao-ifood-_JM)  
+📄 [Mercado Pago](https://produto.mercadolivre.com.br/MLB-5358972660-plataforma-de-delivery-integrada-ifood-agente-ia-chatbot-_JM)  
+📄 [App iOS Cliente](https://apps.apple.com/us/app/motok-para-clientes/id1557157992)  
+📄 [App iOS Entregador](https://apps.apple.com/us/app/motok-para-entregadores/id1557157954)  
+📄 [App Web Cliente](https://motok.web.app)  
+📄 [App Web Admin](https://motokadm.web.app)  
+📄 [App Web Entregador](https://motokpro.web.app)
